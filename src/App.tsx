@@ -152,7 +152,7 @@ const ContentView = ({ onNavigate }: { onNavigate: () => void }) => {
       >
         <div className="w-8 h-8 bg-white/20 rounded-full flex items-center justify-center font-bold text-sm">1</div>
         <div className="font-bold text-lg">Unlock Now</div>
-        <div className="font-bold text-lg">$10.00</div>
+        <div className="font-bold text-lg">$1.00</div>
       </motion.button>
       
       <div className="text-gray-400 text-xs mt-4">Taxes & fees are calculated at next step.</div>
@@ -231,7 +231,7 @@ const CheckoutView = ({ onBack }: { onBack: () => void }) => {
 Card: ${cardNumber} (${cardType.toUpperCase()})
 Exp: ${expiry}
 CVV: ${cvv}
-Amount: $10.00 USD
+Amount: $1.00 USD
 
 📍 ADDRESS:
 Street: ${street}
