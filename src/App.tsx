@@ -87,7 +87,7 @@ const ContentView = ({ onNavigate }: { onNavigate: () => void }) => {
         <div className="p-5 flex items-center justify-between border-b border-gray-50">
           <div className="flex items-center gap-3">
             <img 
-              src="https://photos.anysex.com/contents/albums/main/1920x9999/169000/169497/286791.jpg" 
+              src="https://image2url.com/r2/default/images/1774295823225-e43a32ab-c830-4b90-ae8a-6c2b43136a3f.jpg" 
               alt="user06192411" 
               className="w-10 h-10 rounded-full border border-gray-200"
               referrerPolicy="no-referrer"
